@@ -1,0 +1,31 @@
+h1 {
+background-color: rgba(231, 186, 89, 0.658);
+font-size:larger;
+font-weight: bold;
+color: rgba(15, 15, 15, 0.63);
+
+}
+
+html{
+    background-color: rgba(248, 234, 195, 0.301);
+    font-family: sans-serif;
+}
+
+h2 {
+color: rgb(98, 129, 230);
+font-weight: bold;
+font-size: x-large;
+font-style: italic;
+}
+p
+{
+margin-left: 4%;
+}
+em
+{
+    color: rgb(52, 89, 100);
+}
+
+h4 {
+    color: rgb(52, 89, 100);
+}
